@@ -67,7 +67,7 @@ Delivered actionable business insights to stakeholders.
 🛠 Technologies Used
 
 
-Front-End
+1. Front-End
 
 Technology: Power BI Desktop
 
@@ -76,7 +76,7 @@ Version: 2.141.1754.0 (64-bit)
 Purpose: Dashboard development
 
 
-Back-End
+2. Back-End
 
 Technology: MySQL Database Server
 
@@ -85,7 +85,7 @@ Version: 8.0.41.0 Community Edition
 Purpose: Data storage and management
 
 
-Tools
+3. Tools
 
 Technology: ODBC Connector
 
@@ -94,7 +94,7 @@ Version: 8.0.33
 Purpose: Data connection between MySQL and Power BI
 
 
-Operating System
+4. Operating System
 
 Technology: Microsoft Windows 11
 
@@ -103,7 +103,7 @@ Version: 10.0.26100
 Purpose: System platform for development and testing
 
 
-Editors
+5. Editors
 
 Technology: Power BI, MySQL Workbench
 
@@ -115,11 +115,11 @@ Purpose: Data extraction, transformation, and visualization
 
 📊 Dashboard Key Modules 
 
-Revenue & Sales Performance
+1. Revenue & Sales Performance
 
-Market and Regional Insights
+2. Market and Regional Insights
 
-Customer and Product Profitability
+3. Customer and Product Profitability
 
-Profit Margin Target Achievement
+4. Profit Margin Target Achievement
 
