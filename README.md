@@ -132,11 +132,11 @@ Purpose: Data extraction, transformation, and visualization
 
 📊 Dashboard Key Modules 
 
-1. Revenue & Sales Performance
+1. Revenue Insights
 
-2. Market and Regional Insights
+2. Business Performance
 
-3. Customer and Product Profitability
+3. Customer and Product Insights
 
 4. Profit Margin Target Achievement
 
