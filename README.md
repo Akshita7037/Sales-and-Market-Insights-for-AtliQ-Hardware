@@ -1,6 +1,11 @@
 ![Screenshot (23)](https://github.com/user-attachments/assets/3ded627e-bef2-4800-9915-87d967cef4a6)
 
+![Screenshot (24)](https://github.com/user-attachments/assets/402ded92-92e3-4ca3-a221-a8840d4c15f2)
+
 ![image](https://github.com/user-attachments/assets/030a6547-abe4-4aa2-82e1-16d804f4596c)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/988f2508-970f-4037-98e5-4d26024bd413)
+
 📋Project Overview :
 
 This project focuses on analyzing AtliQ Hardware's retail performance using a MySQL dataset and Power BI. The data set comprises five tables (market, product, date, customer, transaction) and was imported into Power BI using an ODBC connector. The project involves data cleaning, transformation, and measure calculation to derive actionable insights. Data preprocessing was performed using Power Query Editor to handle inconsistent or blank values, and DAX was used to calculate key measures such as Revenue, Profit Margin %, Profit Margin Contribution %, Revenue Contribution %, and Total Expenses. These measures were then used to create four comprehensive reports with visualizations to support strategic decision-making. The project structure is divided into four reports, each addressing specific aspects of sales, profitability, customer behavior, product demand, and performance comparisons, enabling AtliQ Hardware to optimize its retail operations.
